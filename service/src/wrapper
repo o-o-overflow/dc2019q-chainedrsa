@@ -1,0 +1,10 @@
+#!/bin/sh
+
+
+mkdir -p flags
+
+python work.py /flag
+
+exec 2>/dev/null
+
+timeout --foreground 500 stdbuf -i0 -o0 -e0 /service

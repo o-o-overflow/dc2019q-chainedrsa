@@ -5,6 +5,8 @@
 ## Solution:
       
   0. check out the paper
+  
+     [The straight one](https://github.com/o-o-overflow/dc2019q-chainedrsa/blob/master/util/rsa_upper_half.pdf)
       
   1. The public key header hints the key is PKCS#1.2. It is clearly written in the "standard" --- PKCS1v2, RFC 2437.
      

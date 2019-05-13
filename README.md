@@ -14,7 +14,7 @@
       lambda(N) is the lcm of (p-1), (q-1), not the multiplication of
       (p-1) and (q-1).
       
-  3. The paper's solution need to be edited because of the use of lcm 4.
+  3. The paper's solution need to be edited because of the use of lcm.
       
   4. And you need to add optimizations to improve the performance.
       
